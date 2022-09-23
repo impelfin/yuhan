@@ -15,4 +15,4 @@ elif [ $a -ge 60 ];then
 else
   echo F
 fi
-echo Thank you~ bye~!
+echo Thank you~ bye~!!!!
