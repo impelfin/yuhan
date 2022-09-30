@@ -1,8 +1,5 @@
 use testdb;
 
-drop table st_info;
-drop table st_grade;
-
 create table st_info(ST_ID int, NAME varchar(20), DEPT varchar(25)) default charset=utf8;
 create table st_grade(ST_ID int, LINUX int, DB int);
 
